@@ -1,0 +1,5 @@
+echo FIT2100
+date
+pwd
+ls -l commands.txt
+wc commands.txt
